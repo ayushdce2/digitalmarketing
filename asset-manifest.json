@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/digitalmarketing/static/css/main.902b1e1c.css",
+    "main.js": "/digitalmarketing/static/js/main.424f277e.js",
+    "static/media/two.png": "/digitalmarketing/static/media/two.e2eaa13f507079c4e6d4.png",
+    "static/media/one.png": "/digitalmarketing/static/media/one.e6d5f604135dd9f018fb.png",
+    "static/media/three.png": "/digitalmarketing/static/media/three.6091dfed064e3e94b212.png",
+    "static/media/DancingScript-VariableFont_wght.ttf": "/digitalmarketing/static/media/DancingScript-VariableFont_wght.d02a1ee17643667e9808.ttf",
+    "static/media/services.png": "/digitalmarketing/static/media/services.eafbff14d617b1de848b.png",
+    "static/media/JosefinSans-VariableFont_wght.ttf": "/digitalmarketing/static/media/JosefinSans-VariableFont_wght.613585db06f849ca7717.ttf",
+    "static/media/about.png": "/digitalmarketing/static/media/about.a33373045363c9619361.png",
+    "static/media/instagram.png": "/digitalmarketing/static/media/instagram.f6c05cecc3987d4107de.png",
+    "index.html": "/digitalmarketing/index.html",
+    "main.902b1e1c.css.map": "/digitalmarketing/static/css/main.902b1e1c.css.map",
+    "main.424f277e.js.map": "/digitalmarketing/static/js/main.424f277e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.902b1e1c.css",
+    "static/js/main.424f277e.js"
+  ]
+}
