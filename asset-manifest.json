@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/digitalmarketing/static/css/main.624d472a.css",
-    "main.js": "/digitalmarketing/static/js/main.424f277e.js",
+    "main.js": "/digitalmarketing/static/js/main.ea13ff21.js",
     "static/media/two.png": "/digitalmarketing/static/media/two.e2eaa13f507079c4e6d4.png",
     "static/media/one.png": "/digitalmarketing/static/media/one.e6d5f604135dd9f018fb.png",
     "static/media/three.png": "/digitalmarketing/static/media/three.6091dfed064e3e94b212.png",
@@ -12,10 +12,10 @@
     "static/media/instagram.png": "/digitalmarketing/static/media/instagram.f6c05cecc3987d4107de.png",
     "index.html": "/digitalmarketing/index.html",
     "main.624d472a.css.map": "/digitalmarketing/static/css/main.624d472a.css.map",
-    "main.424f277e.js.map": "/digitalmarketing/static/js/main.424f277e.js.map"
+    "main.ea13ff21.js.map": "/digitalmarketing/static/js/main.ea13ff21.js.map"
   },
   "entrypoints": [
     "static/css/main.624d472a.css",
-    "static/js/main.424f277e.js"
+    "static/js/main.ea13ff21.js"
   ]
 }
