@@ -1,0 +1,22 @@
+.services_wrap .achievements_box_unit{
+    width: 24%;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    border-bottom-right-radius: 20%;
+}
+
+.services_wrap .Achievements_counter{
+  
+    width: 70%;
+    margin: auto;
+    word-break: break-all;
+    border-bottom-left-radius: 50%;
+    background-color: #ddd;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.services_wrap ul{
+    list-style-type: none;
+    padding-left: unset;
+}
+
+

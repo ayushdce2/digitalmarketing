@@ -1,0 +1,15 @@
+.custom-color{
+    color: rgb(0, 137, 179);
+}
+
+@media only screen and (max-width:767px) {
+    .achievements_box_unit,.services_wrap .achievements_box_unit{
+      width: 100%!important;
+    }
+    .about_left_inside,.about_left_img{
+        width: 100%!important;
+    }
+    .about_left_img{
+        margin-left: -0.7rem!important;
+    }
+  }

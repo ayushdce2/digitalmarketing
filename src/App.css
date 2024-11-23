@@ -1,0 +1,14 @@
+@font-face {
+  font-family: logo_family;
+  src: url(./static/font/JosefinSans-VariableFont_wght.ttf);
+}
+
+*{
+  font-family: logo_family;
+}
+
+@font-face {
+  font-family: section_subheading_family;
+  src: url(./static/font/DancingScript-VariableFont_wght.ttf);
+}
+
